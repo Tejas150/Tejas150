@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - I'm currently learning Web Development.</br>
 
-- I'm comfortable to code in Java and Javascript.
+- I'm comfortable to code in Javascript and Java.
 
 - I prefer building web applications using the MERN stack, but I also like to try and explore other technologies according to the needs.</br>
 
